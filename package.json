@@ -1,0 +1,15 @@
+{
+  "name": "zappfy-api",
+  "version": "1.0.0",
+  "description": "Zappfy API desenvolvida em NodeJs com MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Pinheiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.3"
+  }
+}
